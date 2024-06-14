@@ -1,4 +1,7 @@
-Hi! My name is Sofia B. Candiotto, I'm a student at the Federal University of Paraná (UFPR), in Brazil 🇧🇷. 
+![very cool banner](./banner.jpeg "very cool banner")
+</br> </br>
+![frog](./frog.gif "frog")
+Hello! My name is Sofia B. Candiotto, I'm a student at the Federal University of Paraná (UFPR), in Brazil 🇧🇷. 
 </br>
 I love maths and computer science! I'm still early in my graduation, but I aspire to be a teacher. 
 </br> </br>
