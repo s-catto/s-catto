@@ -11,3 +11,9 @@ Fun facts:
 - 🦷 I have two extra teeth, yes counting the wisdom ones, that's 50% more wisdom, right there.
 </br>
 In conclusion, I'm an exeptionally wise wizard aiming to gather very fancy papers and spread ✨magic✨.
+</br> </br>
+
+![computer](./buttons/3computer.jpg)
+![linux](./buttons/1linux.gif)
+![neocities](./buttons/1neo34.gif)
+![pepsi](./buttons/pepsi.gif)
