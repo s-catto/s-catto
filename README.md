@@ -16,4 +16,3 @@ In conclusion, I'm an exeptionally wise wizard aiming to gather very fancy paper
 ![computer](./buttons/3computer.jpg)
 ![linux](./buttons/1linux.gif)
 ![neocities](./buttons/1neo34.gif)
-![pepsi](./buttons/pepsi.gif)
