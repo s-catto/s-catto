@@ -16,3 +16,8 @@ In conclusion, I'm an exeptionally wise wizard aiming to gather very fancy paper
 ![computer](./buttons/3computer.jpg)
 ![linux](./buttons/1linux.gif)
 ![neocities](./buttons/1neo34.gif)
+</br>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
