@@ -3,7 +3,7 @@
 ![frog](./frog.gif "frog")
 Hello! My name is Sofia B. Candiotto, I'm a student at the Federal University of Paraná (UFPR), in Brazil 🇧🇷. 
 </br>
-I love maths and computer science! I'm still early in my graduation, but I aspire to be a teacher!
+I love maths and computer science! I'm still in my graduation, but I aspire to be a teacher!
 </br> </br>
 Fun facts:
 - 💫 I've memorized the 💥Doomsday Algorithm💥 so I can tell the day of the week to any given date IRL, RT
